@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+xiaohua here,I like xiaoxuan.
+I have a smile face.
